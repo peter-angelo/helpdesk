@@ -23,5 +23,3 @@ Clique na imagem abaixo para acessar a gravação do Webinar.
  <a href="https://www.fluig.com/assets/uploads/contents/thumb/thumb_terceira_plataforma-1497398972.jpg">
      <img src="http://lp.fluig.com/fluig-webinar-terceira-plataforma" alt="Screenshot 4">
 </a>
-
-
